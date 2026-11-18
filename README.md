@@ -29,13 +29,13 @@ A script allowing Discord users to claim the Hypesquad House badges that are now
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/stzbbed/Discord-HypeSquad-House-Selector.git
+git clone https://github.com/stzbbed/Discord-HypeSquad-House-Claimer.git
 ```
 
 2. Navigate to the project directory
 
 ```
-cd Discord-HypeSquad-House-Selector
+cd Discord-HypeSquad-House-Claimer
 ```
 
 3. Install dependencies
