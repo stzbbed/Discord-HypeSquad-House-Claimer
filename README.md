@@ -91,7 +91,7 @@ Feel free to fork this repository, open an issue, or submit a pull request.
 
 ## Copyright
 
-Copyright (c) 2026 YOUR_GITHUB_USERNAME
+Copyright (c) 2026 STZBBED
 
 All rights reserved.
 
