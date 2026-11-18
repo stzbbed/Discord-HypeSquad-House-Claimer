@@ -59,7 +59,7 @@ time.sleep(3)
 
 
 # Discord HypeSquad House Selector
-# Copyright (c) 2026 stzbbed
+# Copyright (c) 2026 STZBBED
 # All rights reserved.
 #
 # Unauthorized copying, redistribution, or
