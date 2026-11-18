@@ -13,7 +13,7 @@ houses = {
 
 print("""
 ========================================
-    Discord HypeSquad House Selector
+    Discord HypeSquad House Claimer
 ========================================
 
         Made by stzbbed on Github
